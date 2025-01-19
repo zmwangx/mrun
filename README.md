@@ -1,7 +1,6 @@
 # mrun
 
 <p>
-  <a href="https://github.com/zmwangx/mrun/releases"><img src="https://img.shields.io/github/release/zmwangx/mrun.svg" alt="Latest Release"></a>
   <a href="https://pkg.go.dev/github.com/zmwangx/mrun"><img src="https://pkg.go.dev/badge/github.com/zmwangx/mrun.svg" alt="Go Reference"></a>
 </p>
 
