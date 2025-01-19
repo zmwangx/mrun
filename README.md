@@ -32,3 +32,10 @@ Does not support:
 ## Documentation
 
 See <https://pkg.go.dev/github.com/zmwangx/mrun>.
+
+## Controls
+
+- Focusing pane: tab for next pane, shift+tab for previous pane, click to focus any pane.
+- Scrolling inside pane: up, down, page up, page down, mouse wheel.
+- Manual interrupt: ctrl+c, esc, q.
+- Dialog: tab/shift+tab/left/right to navigate between buttons, enter to confirm, esc/q to cancel.
